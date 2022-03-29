@@ -10,6 +10,8 @@ MASTER ENROLL device :
 DOOR devices:
 > in this devices we have a relay that we can use to OPEN or CLOSE the door . this action can be up the tag which RFID read (NIDEMCU + RFID + RELAY + LOCK + MODEM)
 
+we use diffrent language in order to do this prj ( C++ , CSS , HTML , PHP , JAVASCRIPT )
+
 # APPLICATION
 
 you have to install XAMPP 
